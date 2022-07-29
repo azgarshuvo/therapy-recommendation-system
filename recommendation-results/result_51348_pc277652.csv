@@ -1,0 +1,6 @@
+id,name,Correlation,number_of_successful_trials
+Th21,hippotherapy,1.0,18499
+Th11,definitive therapy,0.03914974130282329,18523
+Th18,gold standard therapy,0.034953962870600375,18510
+Th27,leech therapy,0.028496639640102513,18640
+Th24,intravenous immunoglobulin,0.022124719467661088,18333

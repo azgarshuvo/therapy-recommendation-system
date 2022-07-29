@@ -1,0 +1,6 @@
+id,name,Correlation,number_of_successful_trials
+Th13,drug therapy,1.0,18438
+Th1,abortive therapy,0.025252823400932833,18592
+Th34,mud therapy,0.02314565652655659,18637
+Th40,prophylactic therapy,0.022293814437011214,18292
+Th45,speech therapy,0.017089279437913708,18423

@@ -1,0 +1,6 @@
+id,name,Correlation,number_of_successful_trials
+Th24,intravenous immunoglobulin,1.0,18333
+Th41,protein therapy,0.0351166319338056,18343
+Th51,water cure (therapy),0.034351907888659605,18237
+Th1,abortive therapy,0.02651199435703066,18592
+Th21,hippotherapy,0.022124719467661088,18499

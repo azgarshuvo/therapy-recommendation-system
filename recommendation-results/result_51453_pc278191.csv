@@ -1,0 +1,6 @@
+id,name,Correlation,number_of_successful_trials
+Th27,leech therapy,1.0,18640
+Th10,curative therapy,0.037249957439969165,18579
+Th44,sound therapy,0.03268914709231279,18305
+Th21,hippotherapy,0.028496639640102517,18499
+Th11,definitive therapy,0.021212203290315444,18523

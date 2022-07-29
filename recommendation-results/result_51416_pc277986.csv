@@ -1,0 +1,6 @@
+id,name,Correlation,number_of_successful_trials
+Th30,medical nutrition therapy,1.0,18291
+Th9,crystal therapy,0.026575155052742327,18354
+Th36,neutron therapy,0.024540752516159014,18161
+Th31,medical therapy,0.021384180405810773,18319
+Th6,chrysotherapy,0.017540059385093745,18476

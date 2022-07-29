@@ -1,0 +1,6 @@
+id,name,Correlation,number_of_successful_trials
+Th29,magnetic resonance therapy,1.0,18305
+Th4,aurotherapy,0.05243321029471429,18323
+Th2,antibody therapy,0.029201543254370285,18714
+Th14,electromagnetic therapy (alternative medicine),0.018238817696515277,18109
+Th50,Waon therapy,0.018039361239336457,18350

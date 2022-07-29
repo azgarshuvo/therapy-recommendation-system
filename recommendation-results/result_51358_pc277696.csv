@@ -1,0 +1,6 @@
+id,name,Correlation,number_of_successful_trials
+Th19,herbal therapy,1.0,18202
+Th32,molecular chaperone therapy,0.026472541111871282,18298
+Th49,systemic therapy,0.026459604368189168,18469
+Th2,antibody therapy,0.025550075425138048,18714
+Th36,neutron therapy,0.018441074001670096,18161

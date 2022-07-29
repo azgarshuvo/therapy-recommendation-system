@@ -1,0 +1,6 @@
+id,name,Correlation,number_of_successful_trials
+Th50,Waon therapy,0.9999999999999998,18350
+Th51,water cure (therapy),0.02804119968983413,18237
+Th2,antibody therapy,0.02560683385499114,18714
+Th23,induction therapy,0.021528760799789187,18364
+Th42,rehydration therapy,0.01875446448917578,18405

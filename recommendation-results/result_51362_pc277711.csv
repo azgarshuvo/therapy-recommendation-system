@@ -1,0 +1,6 @@
+id,name,Correlation,number_of_successful_trials
+Th17,exercise therapy,1.0,18657
+Th12,dietary therapy,0.032738020596878845,18485
+Th44,sound therapy,0.027580988047632312,18305
+Th25,investigational therapy,0.027094877365858003,18404
+Th22,immunosuppressive therapy,0.025703895399119367,18623
