@@ -1,0 +1,2 @@
+# therapy-recommendation-system
+Area - Data Mining. Build a Therapy Recommended System where the recommender system suggests top therapy after analyzing the patient’s previous history, conditions, and trials. For accurate prediction, item based collaborative filtering was used. K nearest neighbor (KNN) was used for finding similar neighbors. To evaluate how efficient the recommendation system predict, Root Means Square Error (RMSE) was used where the regression line investigates the relationship between actual and predicted ratings.
