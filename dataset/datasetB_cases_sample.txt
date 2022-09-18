@@ -1,0 +1,3 @@
+PatientID	Patient Condition
+6		pc32
+10935		pc59369
