@@ -10,7 +10,7 @@ Output:
 * A list of recommended therapies Th
 
 ## Dataset
-here dataset
+* [Patient data generator with Web Scraping](https://github.com/azgarshuvo/patient-data-generator)
 
 ## Therapy Recommendation Algorithm
 Item-based collaborative filtering was employed for precise prediction. Finding neighbors with similar traits was done using K nearest neighbors (KNN). 
