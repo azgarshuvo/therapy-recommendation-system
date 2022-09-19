@@ -14,11 +14,11 @@ Output:
 
 ## Therapy Recommendation Algorithm
 Item-based collaborative filtering was employed for precise prediction. Finding neighbors with similar traits was done using K nearest neighbors (KNN). 
-[Click to see the Implementation](https://github.com/azgarshuvo/therapy-recommendation-system/blob/main/recommendation-system.ipynb)
+[See the Implementation](https://github.com/azgarshuvo/therapy-recommendation-system/blob/main/recommendation-system.ipynb)
 
 ## Algorithm Evaluation
 Root Means Square Error (RMSE), which looks at the relationship between real and anticipated ratings, was used to assess how well the recommendation system predicts
-[Click to the Implementation of Evaluation](https://github.com/azgarshuvo/therapy-recommendation-system/blob/main/evaluation-of-recommendation-system.ipynb)
+[See the Implementation of Evaluation](https://github.com/azgarshuvo/therapy-recommendation-system/blob/main/evaluation-of-recommendation-system.ipynb)
 
 ## Complete Report
 [View report in pdf format](https://github.com/azgarshuvo/therapy-recommendation-system/blob/main/report/Therapy_Recommendation_System.pdf)
